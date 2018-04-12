@@ -2,6 +2,9 @@
 data
 models
 
+# Bash scripts
+.sh
+
 # PDF / ZIP
 *.pdf
 *.zip
